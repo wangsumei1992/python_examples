@@ -84,6 +84,7 @@ def displayBoard(HANGMANPICS, missedLetters, correctLetters, secretWord):
     print(tmp)
     print()
 
+
 def getGuess(alreadyGuessed):
     while True:
         print('Guess a letter')

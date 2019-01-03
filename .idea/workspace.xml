@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9fe55c-2ee2-414f-9fdc-433a2a8a795b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f9fe55c-2ee2-414f-9fdc-433a2a8a795b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -406,7 +403,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24981467" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13398694" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15686275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.506079" side_tool="true" weight="0.24907339" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

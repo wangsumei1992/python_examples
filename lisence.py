@@ -20,4 +20,3 @@ if __name__ == "__main__":
         count = int(sys.argv[-1])
     for l in Lisence(int(count)).create():
         print(l)
-

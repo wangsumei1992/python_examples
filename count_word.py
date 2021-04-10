@@ -15,10 +15,7 @@ with open(filename, 'r') as f:
     dict = {}
     for c in counts:
         dict[c] = c.count()
-l = sorted(dict.items(),key=lambda x:x[1],reverse=True)
+l = sorted(dict.items(), key=lambda x:x[1],reverse=True)
 print(l[0:3])
-
-
-
 
 

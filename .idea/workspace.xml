@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9fe55c-2ee2-414f-9fdc-433a2a8a795b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/count_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quchong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logger.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lisence.py" beforeDir="false" afterPath="$PROJECT_DIR$/lisence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/jsdic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quchong.py" beforeDir="false" afterPath="$PROJECT_DIR$/quchong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/substr.py" beforeDir="false" afterPath="$PROJECT_DIR$/substr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +79,9 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1pkkXY9ci3obA0EslfPjj3yC9ru" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -112,10 +117,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.quchong">
+  <component name="RunManager" selected="Python.demo_logging (1)">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +141,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="count_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_logging (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +153,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_logging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\exclusive\wangsumei文件\python_coding\python_examples\demo_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jiekou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsdic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jsdic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,55 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py.test for jincheng_test.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;jincheng_test.test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py.test for " type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py.test in jincheng_test'.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py.test in jincheng_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+    <configuration name="pytest in jincheng_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,20 +263,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.count_str" />
-      <item itemvalue="Python tests.py.test in jincheng_test.py" />
-      <item itemvalue="Python tests.py.test in jincheng_test'.py" />
-      <item itemvalue="Python tests.py.test for " />
-      <item itemvalue="Python tests.py.test for jincheng_test.test" />
+      <item itemvalue="Python.jiekou" />
+      <item itemvalue="Python.jsdic" />
       <item itemvalue="Python.quchong" />
+      <item itemvalue="Python tests.pytest in jincheng_test.py" />
+      <item itemvalue="Python.demo_logging" />
+      <item itemvalue="Python.demo_logging (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_logging (1)" />
+        <item itemvalue="Python.demo_logging" />
+        <item itemvalue="Python.jsdic" />
+        <item itemvalue="Python.jiekou" />
         <item itemvalue="Python.quchong" />
-        <item itemvalue="Python.count_str" />
-        <item itemvalue="Python tests.py.test for jincheng_test.test" />
-        <item itemvalue="Python tests.py.test for " />
-        <item itemvalue="Python tests.py.test in jincheng_test'.py" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +353,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cat.py">

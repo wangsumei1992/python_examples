@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9fe55c-2ee2-414f-9fdc-433a2a8a795b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dengbenxi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jiekou.py" beforeDir="false" afterPath="$PROJECT_DIR$/jiekou.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsdic.py" beforeDir="false" afterPath="$PROJECT_DIR$/jsdic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quchong.py" beforeDir="false" afterPath="$PROJECT_DIR$/quchong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/substr.py" beforeDir="false" afterPath="$PROJECT_DIR$/substr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,10 +111,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UI_testcases" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.demo_logging (1)">
+  <component name="RunManager" selected="Python.dengbenxi">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,6 +176,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="dengbenxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dengbenxi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="jiekou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,27 +239,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quchong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quchong.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in jincheng_test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,18 +258,18 @@
     <list>
       <item itemvalue="Python.jiekou" />
       <item itemvalue="Python.jsdic" />
-      <item itemvalue="Python.quchong" />
-      <item itemvalue="Python tests.pytest in jincheng_test.py" />
       <item itemvalue="Python.demo_logging" />
       <item itemvalue="Python.demo_logging (1)" />
+      <item itemvalue="Python tests.pytest in jincheng_test.py" />
+      <item itemvalue="Python.dengbenxi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dengbenxi" />
         <item itemvalue="Python.demo_logging (1)" />
         <item itemvalue="Python.demo_logging" />
         <item itemvalue="Python.jsdic" />
         <item itemvalue="Python.jiekou" />
-        <item itemvalue="Python.quchong" />
       </list>
     </recent_temporary>
   </component>
